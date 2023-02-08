@@ -1,2 +1,3 @@
 # DripXL.web
-Esta es Una Pagina Web del Servidor de Minecraft DripXL
+Pagina creada por: https://github.com/ForeverAnimado/
+IP Del Server de Minecraft: DripXL.aternos.me
